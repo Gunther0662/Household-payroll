@@ -14,6 +14,8 @@ My Url will be located in my GitHub account which will lead to my repository. As
 
 ## Usage
 
+![Emplyee Payroll Tracker](image.png)
+
 ## Credits
 
 Thank you to W3School for providing codes that enabled some of the fuctions deployed in the webpage.
