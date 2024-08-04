@@ -14,6 +14,7 @@ My Url will be located in my GitHub account which will lead to my repository. As
 
 ## Usage
 
+GitHub: https://github.com/Gunther0662/Household-payroll
 ![Emplyee Payroll Tracker](image.png)
 
 ## Credits
@@ -22,7 +23,7 @@ Thank you to W3School for providing codes that enabled some of the fuctions depl
 
 ## License
 
-The las section of a high-quality README file is the license. The lets other developers know what they can and cannot do with your projec. If you need help choosing a license, refer to https://choosealicense.com/. 
+The last section of a high-quality README file is the license. The lets other developers know what they can and cannot do with your projec. If you need help choosing a license, refer to https://choosealicense.com/. 
 
 ## Badges
 

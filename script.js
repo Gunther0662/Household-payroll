@@ -17,8 +17,14 @@ const collectEmployees = function () {
     firstName = window.prompt("What is the employee first name"),
     lastName = window.prompt("What is the employee first name"),
     salary = window.prompt("What is the employee first name"),
+    console.log(firstName);
+    console.log(lastName);
+    console.log(salary);
     Employees.push(Employees);
+
+    if (!iscontinuing) {
     return Employees;
+    }
   }
 }  
 
